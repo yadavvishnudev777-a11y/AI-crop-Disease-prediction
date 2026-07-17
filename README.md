@@ -51,5 +51,10 @@ Open the local URL shown in the terminal (typically `http://localhost:8501`).
 ## Notes
 - Ensure `plant_disease_model.keras` is in the same directory as `app.py`.
 - If you retrain the model or change class labels, update the `classes` list in `app.py` accordingly.
+- 
+## Dataset
+Plant Village Dataset (Kaggle)
+link: https://www.kaggle.com/datasets/tushar5harma/plant-village-dataset-updated
+Download and place it inside /dataset folder
 
 "# AI-crop-Disease-prediction" 
